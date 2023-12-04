@@ -1,5 +1,5 @@
-altair
-numpy
+snowflake-connector-python
 pandas
-pydeck
-streamlit
+plotly-express
+matplotlib
+seaborn
